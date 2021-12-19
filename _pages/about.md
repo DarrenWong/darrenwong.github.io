@@ -20,7 +20,7 @@ Education
   * 2021.01 - present
   * Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University
 
-* The University of Hong Kong
+* The Hong Kong University of Science and Technology
   * 2015.09 - 2016.11 
   * M.Sc in Electronic Engineering
 
