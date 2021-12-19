@@ -31,6 +31,9 @@ Education
 
 Working Experience
 ======
+* Research Assistant in HKPolyU
+  * 2020-07 - 2020-12
+
 * Engineer in Planning and Control, PerceptIn 
   * 2017-10 - 2020-06
   * We developed two-seats and eight-seats autonomous vehicle, which targeting in lowspeed scenarios with collision-free. 
