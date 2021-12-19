@@ -10,7 +10,7 @@ redirect_from:
 
 Hey, this is HUANG Feng. Welcome to my homepage.
 
-I am a Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-weisong-wen/) at (Intelligent Positioning and Navigation Laboratory)[https://www.polyu-ipn-lab.com/]. My research interests including localization and sensor fusion for autonomous driving.
+I am a Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-weisong-wen/) at [Intelligent Positioning and Navigation Laboratory](https://www.polyu-ipn-lab.com/). My research interests including localization and sensor fusion for autonomous driving.
 
 Before that, I received his bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
 
@@ -40,6 +40,7 @@ Working Experience
   * Co-working for the first C-V2X demo in Hong Kong and presented in ITSHK 2017 with good response.
 
 Activities
+======
 * I love playing tennis, used to be the minister at Tennis Club in Shenzhen University, Organized some events, such as recruiting new members, holding SZU "President Cup" Tennis Competition, etc.
 
 * Volunteer in Yim Tin Tsai, SaiKung of HKUST program and 26th Summer Universiade, Shenzhen, awarded the Silver award of Outstanding Volunteer by Futian Department Of Volunteers.
