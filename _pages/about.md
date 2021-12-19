@@ -12,7 +12,7 @@ Hey, this is HUANG Feng. Welcome to my homepage.
 
 I am a Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-weisong-wen/) at [Intelligent Positioning and Navigation Laboratory](https://www.polyu-ipn-lab.com/). My research interests including localization and sensor fusion for autonomous driving.
 
-Before that, I received his bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
+Before that, I received my bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
 
 Education
 ======
