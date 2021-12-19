@@ -1,5 +1,5 @@
 ---
-title: "AAE3004 Dynamical Systems and Control"
+title: "Teaching Assistant in AAE3004 Dynamical Systems and Control"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1

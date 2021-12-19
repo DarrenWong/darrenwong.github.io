@@ -1,5 +1,5 @@
 ---
-title: "ENG1003 AAE Freshman Seminar for Engineering"
+title: "Teaching Assistant in ENG1003 AAE Freshman Seminar for Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
