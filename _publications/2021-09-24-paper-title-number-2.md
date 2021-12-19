@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-09-24-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-09-24
-venue: 'ION GNSS+ 2021)'
+venue: 'ION GNSS+ 2021'
 paperurl: 'https://www.ion.org/publications/abstract.cfm?articleID=18083'
 citation: 'Huang, Feng, Shen, Donghui, Wen, Weisong, Zhang, Jiachen, Hsu, Li-Ta, "A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas," Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September 2021, pp. 3162-3172.'
 ---
