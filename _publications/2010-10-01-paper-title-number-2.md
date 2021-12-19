@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-09-24
+venue: 'ION GNSS+ 2021)'
+paperurl: 'https://www.ion.org/publications/abstract.cfm?articleID=18083'
+citation: 'Feng HUANG (2021). &quot;A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas.&quot; <i>ION GNSS+ 2021</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Robust and precise localization and mapping are essential for autonomous systems. Light detection and ranging (LiDAR) odometry are extensively studied in the past decades to achieve this goal. However, almost all the LiDAR-based approaches are built on top of the static world assumption. The performance of the LiDAR-based method is significantly degraded in urban canyons with enormous dynamic objects. To tackle this challenge, we propose a coarse-to-fine LiDAR-based solution with dynamic object removal. Both instant-level deep neural network (DNN) and point-wise discrepancy images are adopted to deal with the dynamic points. The evaluation results show that a 19.1% improvement of the LiDAR-based method in a highly urbanized area can be achieved by distinguishing dynamic objects from LiDAR scan while generating clean maps for real-world representation.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.ion.org/publications/abstract.cfm?articleID=18083)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Huang, Feng, Shen, Donghui, Wen, Weisong, Zhang, Jiachen, Hsu, Li-Ta, "A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas," Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September 2021, pp. 3162-3172.
