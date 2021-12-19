@@ -29,7 +29,7 @@ Education
   * B.Eng in Automation
 
 
-Working Experiments
+Working Experience
 ======
 * Engineer in Planning and Control, PerceptIn 
   * 2017-10 - 2020-06
@@ -38,3 +38,8 @@ Working Experiments
 * Project Intern of IoT, Division of CT, ASTRI
   * 2016-07 - 2017-09
   * Co-working for the first C-V2X demo in Hong Kong and presented in ITSHK 2017 with good response.
+
+Activities
+* I love playing tennis, used to be the minister at Tennis Club in Shenzhen University, Organized some events, such as recruiting new members, holding SZU "President Cup" Tennis Competition, etc.
+
+* Volunteer in Yim Tin Tsai, SaiKung of HKUST program and 26th Summer Universiade, Shenzhen, awarded the Silver award of Outstanding Volunteer by Futian Department Of Volunteers.

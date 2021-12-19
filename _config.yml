@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "HUANG Feng (Darren)"
   avatar           : "profile.png"
   bio              : "Ph.D.student at The Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=amFxKFcAAAAJ"
   email            : "darren-f.huang@connect.polyu.hk"
   researchgate     : "https://www.researchgate.net/profile/Feng-Huang-38"
