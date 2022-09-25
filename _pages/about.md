@@ -48,4 +48,6 @@ Activities
 
 * Volunteer in Yim Tin Tsai, SaiKung of HKUST program and 26th Summer Universiade, Shenzhen, awarded the Silver award of Outstanding Volunteer by Futian Department Of Volunteers.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4"></script>
+<p align="center" style="width: 25% ">
+    <script type="text/javascript" id="clstr_globe"  src="//clustrmaps.com/globe.js?d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4"></script>
+</p>
