@@ -51,8 +51,8 @@ Activities
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
     <tr>
-      <td width="100%" align="middle">
-      <p align="center" style="width: 25% ">
+      <td width="100%" align="middle" style="border: none;">
+      <p align="center" style="width: 25% " style="border: none;">
       <script type="text/javascript" id="clstr_globe"  src="//clustrmaps.com/globe.js?d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4"></script>
       </p></td>
     </tr>
