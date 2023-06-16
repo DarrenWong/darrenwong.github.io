@@ -19,12 +19,22 @@ redirect_from:
 
 * Zhong, Y., **Huang, F.**, Zhang, J., Wen, W., Hsu, L.-T.: Low-cost solid-state LiDAR/inertial-based localization with prior map for autonomous systems in urban scenarios. IET Intell. Transp. Syst. 00, 1– 13 (2022). https://doi.org/10.1049/itr2.12273
 
+* J. Chang, **F. Huang**, L. Zhang, D. Xu and L. -T. Hsu, "Selection of Areas for Effective GNSS Spoofing Attacks to a Vehicle-mounted MSF System based on Scenario Classification Models," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3279831.
+
 ## Conference Proceedings 
+
+* **Feng Huang**, Hang CHEN, Alpamys Urtay, Dongzhe Su, Weisong Wen* and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas (submitted) ([Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
+
+* **Feng Huang**, Weisong Wen*, Guohao Zhang, Dongzhe Su and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas, (submitted) ([Project](https://github.com/DarrenWong/continuous_error_map), [Video](https://youtu.be/6iRHJKm1LQc))
+
+* Sun, Y., **Huang, F**., Wen, W., Hsu, L. T., & Liu, X. (2023). Multi-Robot Cooperative LIDAR Slam for Efficient Mapping in Urban Scenes. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 48, 473-478.
 
 * **Feng Huang**, Weisong Wen, Hoi-Fung Ng, Li-Ta Hsu, "LiDAR Aided Cycle Slip Detection for GNSS Real-time Kinematic Positioning in Urban Environments," 2022 IEEE International Intelligent Transportation Systems Conference (ITSC), 2022.doi: 10.1109/ITSC55140.2022.9921814. ([Paper](https://ieeexplore.ieee.org/abstract/document/9921814), [Video](https://youtu.be/Ys4xCbN9h1s))
 
 * **Huang, Feng**, Shen, Donghui, Wen, Weisong, Zhang, Jiachen, Hsu, Li-Ta, "A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas," Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September 2021, pp. 3162-3172.https://doi.org/10.33012/2021.18083 ([Paper](https://www.ion.org/publications/abstract.cfm?articleID=18083), [Video](https://youtu.be/X_t4EDOdKMY))
 
 * Zhang, Jiachen, Wen, Weisong, **Huang, Feng**, Chen, Xiaodong, Hsu, Li-Ta, "Continuous GNSS-RTK Aided by LiDAR/Inertial Odometry with Intelligent GNSS Selection in Urban Canyons," Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September 2021, pp. 4198-4207.
+
+
 
 
