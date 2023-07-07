@@ -11,6 +11,8 @@ redirect_from:
 
 * **F. Huang**, W. Wen, J. Zhang and L. -T. Hsu, "Point Wise or Feature Wise? A Benchmark Comparison of Publicly Available Lidar Odometry Algorithms in Urban Canyons," in IEEE Intelligent Transportation Systems Magazine, doi: 10.1109/MITS.2021.3092731. 
 
+* Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602
+
 * Zhang J, Wen W, **Huang F**, Wang Y, Chen X, Hsu L-T. GNSS-RTK Adaptively Integrated with LiDAR/IMU Odometry for Continuously Global Positioning in Urban Canyons. Applied Sciences. 2022; 12(10):5193. https://doi.org/10.3390/app12105193
 
 * Zhang J, Wen W, **Huang F**, Chen X, Hsu L-T. Coarse-to-Fine Loosely-Coupled LiDAR-Inertial Odometry for Urban Positioning and Mapping. Remote Sensing. 2021; 13(12):2371. https://doi.org/10.3390/rs13122371
