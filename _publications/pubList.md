@@ -25,9 +25,9 @@ redirect_from:
 
 ## Conference Proceedings 
 
-* **Feng Huang**, Hang CHEN, Alpamys Urtay, Dongzhe Su, Weisong Wen* and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas (submitted) ([Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
+* **Feng Huang**, Hang CHEN, Alpamys Urtay, Dongzhe Su, Weisong Wen* and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas (accepted by ITSC 2023) ([Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
 
-* **Feng Huang**, Weisong Wen*, Guohao Zhang, Dongzhe Su and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas, (submitted) ([Project](https://github.com/DarrenWong/continuous_error_map), [Video](https://youtu.be/6iRHJKm1LQc))
+* **Feng Huang**, Weisong Wen*, Guohao Zhang, Dongzhe Su and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas, (accepted by ITSC 2023) ([Project](https://github.com/DarrenWong/continuous_error_map), [Video](https://youtu.be/6iRHJKm1LQc))
 
 * Sun, Y., **Huang, F**., Wen, W., Hsu, L. T., & Liu, X. (2023). Multi-Robot Cooperative LIDAR Slam for Efficient Mapping in Urban Scenes. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 48, 473-478.
 
