@@ -11,7 +11,7 @@ redirect_from:
 
 * **Feng Huang**, W. Wen, J. Zhang and L. -T. Hsu, "Point Wise or Feature Wise? A Benchmark Comparison of Publicly Available Lidar Odometry Algorithms in Urban Canyons," in IEEE Intelligent Transportation Systems Magazine, doi: 10.1109/MITS.2021.3092731. 
 
-* **Feng Huang**, Weisong Wen, J. Zhang, Chaoqun Wang and Li-Ta Hsu. Dynamic Object-aware LiDAR Odometry Aided by Weightings Optimization in Dense Urban Areas, in IEEE Transactions on Intelligent Vehicles (accepted)([Project](https://github.com/DarrenWong/code_for_dynaLO))
+* **Feng Huang**, Weisong Wen, J. Zhang, Chaoqun Wang and Li-Ta Hsu. Dynamic Object-aware LiDAR Odometry Aided by Weightings Optimization in Dense Urban Areas, in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3338141. ([paper](https://ieeexplore.ieee.org/document/10337805), [Project](https://github.com/DarrenWong/code_for_dynaLO))
 
 * Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602
 
