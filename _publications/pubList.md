@@ -9,13 +9,13 @@ redirect_from:
 
 ## Journals
 
-* **Feng Huang**, W. Wen, J. Zhang and L. -T. Hsu, "Point Wise or Feature Wise? A Benchmark Comparison of Publicly Available Lidar Odometry Algorithms in Urban Canyons," in IEEE Intelligent Transportation Systems Magazine, doi: 10.1109/MITS.2021.3092731. 
+* **Feng Huang**, W. Wen, J. Zhang and L. -T. Hsu, "Point Wise or Feature Wise? A Benchmark Comparison of Publicly Available Lidar Odometry Algorithms in Urban Canyons," in IEEE Intelligent Transportation Systems Magazine, doi: 10.1109/MITS.2021.3092731. ([paper](https://ieeexplore.ieee.org/document/9748891))
 
 * **Feng Huang**, Weisong Wen, J. Zhang, Chaoqun Wang and Li-Ta Hsu. Dynamic Object-aware LiDAR Odometry Aided by Weightings Optimization in Dense Urban Areas, in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3338141. ([paper](https://ieeexplore.ieee.org/document/10337805), [Project](https://github.com/DarrenWong/code_for_dynaLO))
 
 * Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602
 
-* Chen, P., Guan, W., **Huang, F.**, Zhong, Y., Wen, W., Hsu, L. T., & Lu, P. (2023). ECMD: An Event-Centric Multisensory Driving Dataset for SLAM in IEEE Transactions on Intelligent Vehicles (accepted)([Project](https://arclab-hku.github.io/ecmd/)) 
+* Chen, P., Guan, W., **Huang, F.**, Zhong, Y., Wen, W., Hsu, L. T., & Lu, P. (2023). ECMD: An Event-Centric Multisensory Driving Dataset for SLAM. IEEE Transactions on Intelligent Vehicles.([paper](https://ieeexplore.ieee.org/abstract/document/10342726),[Project](https://arclab-hku.github.io/ecmd/)) 
 
 * Zhang J, Wen W, **Huang F**, Wang Y, Chen X, Hsu L-T. GNSS-RTK Adaptively Integrated with LiDAR/IMU Odometry for Continuously Global Positioning in Urban Canyons. Applied Sciences. 2022; 12(10):5193. https://doi.org/10.3390/app12105193 
 
@@ -27,10 +27,9 @@ redirect_from:
 
 * J. Chang, **F. Huang**, L. Zhang, D. Xu and L. -T. Hsu, "Selection of Areas for Effective GNSS Spoofing Attacks to a Vehicle-mounted MSF System based on Scenario Classification Models," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3279831.
 
-*	J. Chang, R. Hu, **F. Huang** and D. Xu and L. -T. Hsu, “LiDAR-based NDT Matching Performance Evaluation for Positioning in Adverse Weather Conditions”, in IEEE Sensors Journal, vol. 23, no. 20, pp. 25346-25355, 15 Oct.15, 2023. 
+*	J. Chang, R. Hu, **F. Huang***, D. Xu and L. -T. Hsu, "LiDAR-Based NDT Matching Performance Evaluation for Positioning in Adverse Weather Conditions," in IEEE Sensors Journal, vol. 23, no. 20, pp. 25346-25355, 15 Oct.15, 2023, doi: 10.1109/JSEN.2023.3312911.
 
 *	J. Chang, Y. Zhang, S. Fan, **F. Huang**, D. Xu and L. -T. Hsu, "An Anti-spoofing Model based on MVM and MCCM for a Loosely-coupled GNSS/INS/LiDAR Kalman Filter," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3335356.
-
 
 ## Conference Proceedings 
 
