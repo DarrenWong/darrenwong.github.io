@@ -32,12 +32,13 @@ redirect_from:
 *	J. Chang, Y. Zhang, S. Fan, **F. Huang**, D. Xu and L. -T. Hsu, "An Anti-spoofing Model based on MVM and MCCM for a Loosely-coupled GNSS/INS/LiDAR Kalman Filter," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3335356.
 
 ## Conference Proceedings 
+* Yan, Penggao, Wen, Weisong, **Huang, Feng**, Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
-* **Feng Huang**, Hang CHEN, Alpamys Urtay, Dongzhe Su, Weisong Wen* and Li-Ta Hsu, Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas (accepted by ITSC 2023) ([Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
+* **F. Huang**, H. Chen, A. Urtay, D. Su, W. Wen and L. -T. Hsu, "Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5831-5837, doi: 10.1109/ITSC57777.2023.10422552. ([Paper](https://ieeexplore.ieee.org/abstract/document/10422552), [Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
 
-* **Feng Huang**, Weisong Wen*, Guohao Zhang, Dongzhe Su and Li-Ta Hsu, Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas, (accepted by ITSC 2023) ([Project](https://github.com/DarrenWong/continuous_error_map), [Video](https://youtu.be/6iRHJKm1LQc))
+* **F. Huang**, W. Wen, G. Zhang, D. Su and L. -T. Hsu, "Adaptive Multi-Sensor Integrated Navigation System Aided by Continuous Error Map from RSU for Autonomous Vehicles in Urban Areas," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5895-5902, doi: 10.1109/ITSC57777.2023.10422216. ([Paper](https://ieeexplore.ieee.org/abstract/document/10422216), [Project](https://github.com/DarrenWong/continuous_error_map), [Video](https://youtu.be/6iRHJKm1LQc))
 
-* Sun, Y., **Huang, F**., Wen, W., Hsu, L. T., & Liu, X. (2023). Multi-Robot Cooperative LIDAR Slam for Efficient Mapping in Urban Scenes. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 48, 473-478.
+* Sun, Y., **Huang, F.**, Wen, W., Hsu, L.-T., and Liu, X.: MULTI-ROBOT COOPERATIVE LIDAR SLAM FOR EFFICIENT MAPPING IN URBAN SCENES, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W1-2023, 473–478, https://doi.org/10.5194/isprs-archives-XLVIII-1-W1-2023-473-2023, 2023.
 
 * **Feng Huang**, Weisong Wen, Hoi-Fung Ng, Li-Ta Hsu, "LiDAR Aided Cycle Slip Detection for GNSS Real-time Kinematic Positioning in Urban Environments," 2022 IEEE International Intelligent Transportation Systems Conference (ITSC), 2022.doi: 10.1109/ITSC55140.2022.9921814. ([Paper](https://ieeexplore.ieee.org/abstract/document/9921814), [Video](https://youtu.be/Ys4xCbN9h1s))
 
