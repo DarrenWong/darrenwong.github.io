@@ -12,6 +12,7 @@ redirect_from:
 * 2022 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022)
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
+* IEEE Transactions on Intelligent Vehicles
 
 ---
 
