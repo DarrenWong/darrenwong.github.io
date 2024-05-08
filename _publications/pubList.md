@@ -32,6 +32,9 @@ redirect_from:
 *	J. Chang, Y. Zhang, S. Fan, **F. Huang**, D. Xu and L. -T. Hsu, "An Anti-spoofing Model based on MVM and MCCM for a Loosely-coupled GNSS/INS/LiDAR Kalman Filter," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3335356.
 
 ## Conference Proceedings 
+
+* **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated Positioning for Intelligent Vehicles in Urban Areas. Submitted to IEEE ITSC 2024. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
+
 * Yan, Penggao, Wen, Weisong, **Huang, Feng**, Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
 * **F. Huang**, H. Chen, A. Urtay, D. Su, W. Wen and L. -T. Hsu, "Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5831-5837, doi: 10.1109/ITSC57777.2023.10422552. ([Paper](https://ieeexplore.ieee.org/abstract/document/10422552), [Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
