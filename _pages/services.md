@@ -14,6 +14,7 @@ redirect_from:
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
 * IEEE Transactions on Intelligent Vehicles
+* IEEE Transactions on Instrumentation and Measurement
 
 ---
 
