@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 
-## Teaching Assistance
+## Teaching Assistant
 
 ### Courses in The Hong Kong Polytechnic University
 * AAE1001 INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS IN AEROSPACE AND AVIATION ENGINEERING (Undergraduate). _2023_
