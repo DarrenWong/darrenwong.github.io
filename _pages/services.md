@@ -16,6 +16,7 @@ redirect_from:
 * IEEE Sensors Journal
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Instrumentation and Measurement
+* IEEE Transactions on Vehicular Technology
 
 ---
 
