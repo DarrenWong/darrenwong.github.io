@@ -10,7 +10,7 @@ redirect_from:
 
 Hey, this is HUANG Feng. Welcome to my homepage.
 
-I am a Ph.D candidate in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/) at [Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html). I was a visiting PhD student with the Nanyang Technological University  School of Electrical and Electronic Engineering (NTU EEE) in 2024, supervised by [Prof. Danwei Wang](https://dr.ntu.edu.sg/cris/rp/rp00479). My research interests including localization and sensor fusion for autonomous driving.
+I received my Ph.D degree in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/) at [Intelligent Positioning and Navigation Laboratory](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html). I was a visiting PhD student with the Nanyang Technological University  School of Electrical and Electronic Engineering (NTU EEE) in 2024, supervised by [Prof. Danwei Wang](https://dr.ntu.edu.sg/cris/rp/rp00479). My research interests including localization and sensor fusion for autonomous driving.
 
 Before that, I received my bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
 
@@ -21,8 +21,8 @@ Education
   * Visiting Ph.D student in the School of Electrical and Electronic Engineering (EEE)
 
 * The Hong Kong Polytechnic University
-  * 2021.01 - present
-  * Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University
+  * 2021.01 - 2025.04
+  * Ph.D in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University
 
 * The Hong Kong University of Science and Technology
   * 2015.09 - 2016.11 
