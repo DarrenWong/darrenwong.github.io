@@ -16,13 +16,13 @@ Before that, I received my bachelor's degree from Shenzhen University in Automat
 
 Education
 ======
-* Nanyang Technological University
-  * 2024.04 - 2024.10
-  * Visiting Ph.D student in the School of Electrical and Electronic Engineering (EEE)
-
 * The Hong Kong Polytechnic University
   * 2021.01 - 2025.04
   * Ph.D in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University
+
+* Nanyang Technological University
+  * 2024.04 - 2024.10
+  * Visiting Ph.D student in the School of Electrical and Electronic Engineering (EEE)
 
 * The Hong Kong University of Science and Technology
   * 2015.09 - 2016.11 
