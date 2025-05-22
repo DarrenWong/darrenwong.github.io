@@ -35,6 +35,9 @@ Education
 
 Working Experience
 ======
+* Postdoctoral Fellow in HKPolyU
+  * 2025-05 - Present
+
 * Research Assistant in HKPolyU
   * 2020-07 - 2020-12
 
