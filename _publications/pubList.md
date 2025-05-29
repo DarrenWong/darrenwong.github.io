@@ -13,6 +13,8 @@ redirect_from:
 
 * **Feng Huang**, Weisong Wen, J. Zhang, Chaoqun Wang and Li-Ta Hsu. Dynamic Object-aware LiDAR Odometry Aided by Weightings Optimization in Dense Urban Areas, in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3338141. ([paper](https://ieeexplore.ieee.org/document/10337805), [Project](https://github.com/DarrenWong/code_for_dynaLO))
 
+* **F. Huang**, W. Wen, G. Zhang, D. Su and Y. Huang, "Continuous Error Map Aided Adaptive Multi-Sensor Integration for Connected Autonomous Vehicles in Urban Scenarios," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2025.3573351.([paper](https://ieeexplore.ieee.org/document/11015522), [Project](https://github.com/DarrenWong/continuous_error_map))
+
 * Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602
 
 * Chen, P., Guan, W., **Huang, F.**, Zhong, Y., Wen, W., Hsu, L. T., & Lu, P. (2023). ECMD: An Event-Centric Multisensory Driving Dataset for SLAM. IEEE Transactions on Intelligent Vehicles.([paper](https://ieeexplore.ieee.org/abstract/document/10342726),[Project](https://arclab-hku.github.io/ecmd/)) 
