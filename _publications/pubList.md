@@ -35,7 +35,7 @@ redirect_from:
 
 ## Conference Proceedings 
 
-* **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated Positioning for Intelligent Vehicles in Urban Areas. Submitted to IEEE ITSC 2024. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
+* **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas. Accepted by IEEE IROS 2025. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
 
 * Yan, Penggao, Wen, Weisong, **Huang, Feng**, Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
