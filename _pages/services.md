@@ -21,6 +21,10 @@ redirect_from:
 
 ---
 
+## Invited Talk
+* Invited Talk at Special Session, The 4th International Conference on Urban Informatics (ICUI 2025)
+---
+
 ## Teaching Assistant
 
 ### Courses in The Hong Kong Polytechnic University
