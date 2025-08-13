@@ -53,6 +53,19 @@ redirect_from:
 
 * Zhang, Jiachen, Wen, Weisong, **Huang, Feng**, Chen, Xiaodong, Hsu, Li-Ta, "Continuous GNSS-RTK Aided by LiDAR/Inertial Odometry with Intelligent GNSS Selection in Urban Canyons," Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September 2021, pp. 4198-4207.
 
+## PhD Thesis
+[Dynamic Object-Aware LiDAR Odometry In Urban Areas: From Single To Cooperative Navigation](https://theses.lib.polyu.edu.hk/handle/200/13737)
+
+**HUANG Feng**
+
+[HK PolyU Thesis Archive 2025](https://theses.lib.polyu.edu.hk/handle/200/13737)
+
+Thesis Committee:
+
+Prof. LIU Wei , Prof. KONG Hui and Prof. Gu Shengfeng
+
+This thesis addresses robust and precise positioning for autonomous systems in urban environments by tackling challenges in LiDAR odometry and GNSS-based navigation. The main contributions are: (1) evaluating LiDAR odometry in dynamic urban canyons and identifying key factors affecting performance; (2) developing learning-based and optimization-based methods to mitigate dynamic object and outlier impacts in LiDAR odometry; and (3) integrating roadside infrastructure, such as LiDAR and GNSS, into multi-sensor frameworks for enhanced positioning accuracy. These advances improve reliable navigation for autonomous driving in challenging urban areas.
+
 
 
 
