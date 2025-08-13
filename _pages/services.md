@@ -23,6 +23,7 @@ redirect_from:
 
 ## Invited Talk
 * Invited Talk at Special Session, The 4th International Conference on Urban Informatics (ICUI 2025)
+
 ---
 
 ## Teaching Assistant
@@ -33,6 +34,7 @@ redirect_from:
 * AAE3004 Dynamical Systems and Control (Undergraduate). _2021_
 * ENG1003 AAE Freshman Seminar for Engineering (Undergraduate). _2020_
 
+---
 
 ### STEAM-based programme
 * PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_

@@ -37,6 +37,8 @@ redirect_from:
 
 * **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas. Accepted by IEEE IROS 2025. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
 
+* Qin, Q., Zhang, Z., Zhong, Y., **Huang, F**., Liu, X., Hu, R., Chen, H., Hu, W., Su, D., Zhang, J., Ng, H.-F., & Wen, W. (2025). UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas， Accepted by IEEE ITSC 2025. （[Project](https://polyu-taslab.github.io/UrbanV2X/)）
+
 * Yan, Penggao, Wen, Weisong, **Huang, Feng**, Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
 * **F. Huang**, H. Chen, A. Urtay, D. Su, W. Wen and L. -T. Hsu, "Roadside Infrastructure assisted LiDAR/Inertial-based Mapping for Intelligent Vehicles in Urban Areas," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5831-5837, doi: 10.1109/ITSC57777.2023.10422552. ([Paper](https://ieeexplore.ieee.org/abstract/document/10422552), [Project](https://github.com/DarrenWong/RSI-aided_LIO), [Video](https://youtu.be/qan46m3gczo))
