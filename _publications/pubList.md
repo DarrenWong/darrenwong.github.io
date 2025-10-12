@@ -15,7 +15,7 @@ redirect_from:
 
 * **F. Huang**, W. Wen, G. Zhang, D. Su and Y. Huang, "Continuous Error Map Aided Adaptive Multi-Sensor Integration for Connected Autonomous Vehicles in Urban Scenarios," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2025.3573351.([paper](https://ieeexplore.ieee.org/document/11015522), [Project](https://github.com/DarrenWong/continuous_error_map))
 
-* Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602
+* Hsu, L-T., **Huang, F.**, Ng, H-F., Zhang, G., Zhong, Y., Bai, X., & Wen, W. (2023). Hong Kong UrbanNav: An open-source multisensory dataset for benchmarking urban navigation algorithms. NAVIGATION, 70(4). https://doi.org/10.33012/navi.602 ([Project](https://github.com/IPNL-POLYU/UrbanNavDataset), 2024 Most Cited Manuscript by the Institute of Navigation)
 
 * Chen, P., Guan, W., **Huang, F.**, Zhong, Y., Wen, W., Hsu, L. T., & Lu, P. (2023). ECMD: An Event-Centric Multisensory Driving Dataset for SLAM. IEEE Transactions on Intelligent Vehicles.([paper](https://ieeexplore.ieee.org/abstract/document/10342726),[Project](https://arclab-hku.github.io/ecmd/)) 
 
@@ -38,6 +38,8 @@ redirect_from:
 * **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas. Accepted by IEEE IROS 2025. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
 
 * Qin, Q., Zhang, Z., Zhong, Y., **Huang, F**., Liu, X., Hu, R., Chen, H., Hu, W., Su, D., Zhang, J., Ng, H.-F., & Wen, W. (2025). UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas， Accepted by IEEE ITSC 2025. （[Project](https://polyu-taslab.github.io/UrbanV2X/)）
+
+* Yixin GAO, Weisong Wen*, Xikun LIU, **Feng Huang**, jiahao Hu, Dongzhe Su (2025). Enhancing LEO-GNSS Positioning in Urban Canyons: A Factor Graph Optimization Approach with StarLink Simulations, Accepted by IEEE ITSC 2025. ([Project](https://github.com/Gao-tech1/GraphGNSSLib_LEO_V1.2))
 
 * Yan, Penggao, Wen, Weisong, **Huang, Feng**, Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
