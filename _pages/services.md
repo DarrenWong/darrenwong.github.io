@@ -7,17 +7,31 @@ redirect_from:
   - /services
 ---
 
+
+
 ## Reviewer
+
 * 2025 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IEEE IV 2025)
 * 2024 IEEE The 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024)
-* 2024 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2024)
-* 2023 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2023)
-* 2022 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022)
+* IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC) (2022~Present)
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Instrumentation and Measurement
 * IEEE Transactions on Vehicular Technology
+* Information Fusion
+
+---
+
+## Workshop Chair and Session Chair 
+* Co-Chair, IEEE ITSC 2025 workshop: 4th Workshop on Intelligent Vehicle Meets Urban: Safe And Certifiable Navigation And Control for Intelligent Vehicles In Complex Urban Scenarios ([Workshop Page](https://sites.google.com/view/ivurban2025itsc)), Gold Coast, Australia, 2025
+* Co-Chair, The 1st Research Workshop of the Research Centre for Unmanned Autonomous Systems (RCUAS), Hong Kong SAR, 2025
+* Co-Chair, The First “Al4X" International Academic Industry Conference Plenary Session: Al for Intelligent Systems, Wuxi, China, 2025
+
+---
+
+## Editorial Roles
+* Guest Editor in Electronics, Real-Time Path Planning Design for Autonomous Driving Vehicles, 2025 ([Page](https://www.mdpi.com/journal/electronics/special_issues/C9FCZA89P1))
 
 ---
 
@@ -37,4 +51,5 @@ redirect_from:
 ---
 
 ### STEAM-based programme
-* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_
+* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_ , supervised the team from Maryknoll Convent School (Secondary Section), which received a 🎖️ Merit award.
+
