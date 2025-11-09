@@ -25,7 +25,7 @@ redirect_from:
 
 ## Workshop Chair and Session Chair 
 * Co-Chair, IEEE ITSC 2025 workshop: 4th Workshop on Intelligent Vehicle Meets Urban: Safe And Certifiable Navigation And Control for Intelligent Vehicles In Complex Urban Scenarios ([Workshop Page](https://sites.google.com/view/ivurban2025itsc)), Gold Coast, Australia, 2025
-* Co-Chair, The 1st Research Workshop of the Research Centre for Unmanned Autonomous Systems (RCUAS), Hong Kong SAR, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/RCUAS_poster_2025.pdf))
+* Co-Chair, The 1st Research Workshop of the Research Centre for Unmanned Autonomous Systems (RCUAS), Hong Kong SAR, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/RCUAS_poster_2025.jpg))
 * Co-Chair, The First “Al4X" International Academic Industry Conference Plenary Session: Al for Intelligent Systems, Wuxi, China, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/AI4X.jpg))
 
 ---
