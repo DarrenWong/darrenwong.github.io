@@ -10,10 +10,9 @@ redirect_from:
 
 
 ## Reviewer
-
-* 2025 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IEEE IV 2025)
-* 2024 IEEE The 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024)
 * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC) (2022~Present)
+* IEEE INTELLIGENT VEHICLES SYMPOSIUM (IEEE IV) (2025~ Present)
+* 2024 IEEE The 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024)
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
 * IEEE Transactions on Intelligent Vehicles
@@ -24,7 +23,7 @@ redirect_from:
 ---
 
 ## Workshop Chair and Session Chair 
-* Co-Chair, IEEE ITSC 2025 workshop: 4th Workshop on Intelligent Vehicle Meets Urban: Safe And Certifiable Navigation And Control for Intelligent Vehicles In Complex Urban Scenarios ([Workshop Page](https://sites.google.com/view/ivurban2025itsc)), Gold Coast, Australia, 2025
+* Co-Chair, IEEE ITSC 2025 workshop: 4th Workshop on Intelligent Vehicle Meets Urban: Safe And Certifiable Navigation And Control for Intelligent Vehicles In Complex Urban Scenarios ([Workshop Page](https://sites.google.com/view/ivurban2025itsc)) and Workshop on Multimodal Fusion enabled Embodied Intelligence of Autonomous Driving ([Workshop Page](https://wan300.github.io/itsc/), [Link](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/ITSCworkshop_chair.jpg)), Gold Coast, Australia, 2025
 * Co-Chair, The 1st Research Workshop of the Research Centre for Unmanned Autonomous Systems (RCUAS), Hong Kong SAR, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/RCUAS_poster.jpg))
 * Co-Chair, The First “Al4X" International Academic Industry Conference Plenary Session: Al for Intelligent Systems, Wuxi, China, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/AI4X.jpg))
 
@@ -51,5 +50,5 @@ redirect_from:
 ---
 
 ### STEAM-based programme
-* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_ , supervised the team from Maryknoll Convent School (Secondary Section), which received a 🎖️ Merit award.
+* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_ , supervised the team from Maryknoll Convent School (Secondary Section), which received a 🎖️ Merit award ([award](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/cubesat_mission/award.jpg), [team photo1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/team1.jpg), [team photo2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/team2.jpg)).
 
