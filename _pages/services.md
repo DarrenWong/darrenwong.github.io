@@ -50,5 +50,4 @@ redirect_from:
 ---
 
 ### STEAM-based programme
-* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_ , supervised the team from Maryknoll Convent School (Secondary Section), which received a 🎖️ Merit award ([award](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/cubesat_mission/award.jpg), [team photo1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/team1.jpg), [team photo2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/team2.jpg)).
-
+* PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_ , supervised the team from Maryknoll Convent School (Secondary Section), which received a 🎖️ Merit award ([award](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/award.jpg), [team photo1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/team1.jpg), [team photo2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/team2.jpg)).
