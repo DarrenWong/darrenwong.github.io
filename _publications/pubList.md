@@ -35,7 +35,7 @@ redirect_from:
 
 ## Conference Proceedings 
 
-* Wang, Z., Zhao, S., Dai, D., Yang, L. **Huang, F.**; Hsu, L.-T.; Wen, W. From FSD to FSC: Enabling Full Smart-Communication in Autonomous Vehicles Through Full Self-Driving Models， Accepted by INFOCOM 2026 ([CCF Class A conference](https://www.ccf.org.cn/Academic_Evaluation/CN/)), Tokyo, Japan.
+* Wang, Z., Zhao, S., Dai, D., Yang, L. **Huang, F.**; Hsu, L.-T.; Wen, W. From FSD to FSC: Enabling Full Smart-Communication in Autonomous Vehicles Through Full Self-Driving Models, Accepted by INFOCOM 2026 ([CCF Class A conference](https://www.ccf.org.cn/Academic_Evaluation/CN/)), Tokyo, Japan.
 
 * **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., & Hsu, L. T.. Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 2734-2741, doi: 10.1109/IROS60139.2025.11246475.. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
 
