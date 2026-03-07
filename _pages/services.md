@@ -26,6 +26,8 @@ redirect_from:
 * Outstanding Reviewer of 2025 - IEEE Transactions on Instrumentation and Measurement [link](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/award/TIM2025.png)
 
 ## Workshop Chair and Session Chair 
+* Co-Chair, IEEE ICRA 2026 workshop: 1st Workshop on Robot Meets GNSS and Ranging for Seamless Autonomy ([Workshop Page](https://robotmeetsranging.tech/)), Vienna, Austri, 2026
+
 * Co-Chair, IEEE ITSC 2025 workshop: 4th Workshop on Intelligent Vehicle Meets Urban: Safe And Certifiable Navigation And Control for Intelligent Vehicles In Complex Urban Scenarios ([Workshop Page](https://sites.google.com/view/ivurban2025itsc)) and Workshop on Multimodal Fusion enabled Embodied Intelligence of Autonomous Driving ([Workshop Page](https://wan300.github.io/itsc/), [Link](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/ITSCworkshop_chair.jpg)), Gold Coast, Australia, 2025
 * Co-Chair, The 1st Research Workshop of the Research Centre for Unmanned Autonomous Systems (RCUAS), Hong Kong SAR, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/RCUAS_poster.jpg))
 * Co-Chair, The First “Al4X" International Academic Industry Conference Plenary Session: Al for Intelligent Systems, Wuxi, China, 2025 ([Poster](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/poster/AI4X.jpg))
