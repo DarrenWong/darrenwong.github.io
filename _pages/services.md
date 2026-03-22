@@ -12,6 +12,7 @@ redirect_from:
 ## Reviewer
 * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC) (2022~Present)
 * IEEE INTELLIGENT VEHICLES SYMPOSIUM (IEEE IV) (2025~ Present)
+* 2026 The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IROS 2026)
 * 2024 IEEE The 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024)
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
@@ -19,6 +20,7 @@ redirect_from:
 * IEEE Transactions on Instrumentation and Measurement
 * IEEE Transactions on Vehicular Technology
 * Information Fusion
+* Journal of Field Robotics
 
 ---
 
@@ -41,6 +43,7 @@ redirect_from:
 
 ## Invited Talk
 * Invited Talk at Special Session, The 4th International Conference on Urban Informatics (ICUI 2025)
+* Invited Talk at CIHAPB Annual Conference 2025 ([Photo1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/CIHAPB2025/Talk.jpg)， [Photo2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/CIHAPB2025/Panel1.jpg))
 
 ---
 
