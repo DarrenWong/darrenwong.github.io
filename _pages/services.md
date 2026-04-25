@@ -36,6 +36,7 @@ redirect_from:
 
 ## Editorial Roles
 * Guest Editor in Electronics, Real-Time Path Planning Design for Autonomous Driving Vehicles, 2025 ([Page](https://www.mdpi.com/journal/electronics/special_issues/C9FCZA89P1))
+* Committee Member, Navigation for Intelligent Vehicles, IEEE ITS Society Technical Committees (Chair: [Daniel Medina](https://ieee-itss.org/chapters-committees/navigation-for-intelligent-vehicles/))
 
 ---
 
