@@ -19,6 +19,7 @@ redirect_from:
 * IEEE Transactions on Vehicular Technology
 * Information Fusion
 * Journal of Field Robotics
+* Satellite Navigation
 
 ---
 
