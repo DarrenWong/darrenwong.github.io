@@ -60,7 +60,9 @@ Activities
     <tr style="border: none;">
       <td width="100%" align="middle" style="border: none;">
       <p align="center">
-      <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4"></script>
+        <object data="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4" type="image/png" width="300">
+          <a href="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=Zdm2i3FFF0o2zq3COakIshmlr_PRZyLFIXTvEBtMOh4">Visitor Map</a>
+        </object>
       </p></td>
     </tr>
   </tbody>
