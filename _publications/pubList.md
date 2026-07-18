@@ -35,13 +35,13 @@ redirect_from:
 
 ## Conference Proceedings
 
-* Wang, Z., Zhao, S., Dai, D., Yang, L., **Huang, F.**, Hsu, L.-T., and Wen, W. "From FSD to FSC: Enabling Full Smart-Communication in Autonomous Vehicles Through Full Self-Driving Models," accepted by INFOCOM 2026 ([CCF Class A Conference](https://www.ccf.org.cn/Academic_Evaluation/CN/)), Tokyo, Japan.
+* Wang, Z., Zhao, S., Dai, D., Yang, L., **Huang, F.**, Hsu, L.-T., and Wen, W. "From FSD to FSC: Enabling Full Smart-Communication in Autonomous Vehicles Through Full Self-Driving Models," *IEEE INFOCOM 2026 - IEEE Conference on Computer Communications*, 2026, pp. 1-10, doi: 10.1109/INFOCOM59046.2026.11571492. ([CCF Class A Conference](https://www.ccf.org.cn/Academic_Evaluation/CN/))
 
 * **Huang, F.**, Zhong, Y., Chen, H., Su, D., Wu, J., Wen, W., and Hsu, L. T. "Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Hangzhou, China, 2025, pp. 2734-2741, doi: 10.1109/IROS60139.2025.11246475. ([Project](https://github.com/DarrenWong/RSG-GLIO-data))
 
-* Qin, Q., Zhang, Z., Zhong, Y., **Huang, F.**, Liu, X., Hu, R., Chen, H., Hu, W., Su, D., Zhang, J., Ng, H.-F., and Wen, W. (2025). "UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas," accepted by IEEE ITSC 2025. ([Project](https://polyu-taslab.github.io/UrbanV2X/))
+* Qin, Q., Zhang, Z., Zhong, Y., **Huang, F.**, Liu, X., Hu, R., Chen, H., Hu, W., Su, D., Zhang, J., Ng, H.-F., and Wen, W. "UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas," *2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)*, Gold Coast, Australia, 2025, pp. 815-822, doi: 10.1109/ITSC60802.2025.11423762. ([Project](https://polyu-taslab.github.io/UrbanV2X/))
 
-* Yixin Gao, Weisong Wen*, Xikun Liu, **Feng Huang**, Jiahao Hu, and Dongzhe Su (2025). "Enhancing LEO-GNSS Positioning in Urban Canyons: A Factor Graph Optimization Approach with StarLink Simulations," accepted by IEEE ITSC 2025. ([Project](https://github.com/Gao-tech1/GraphGNSSLib_LEO_V1.2))
+* Gao, Y., Wen, W., Liu, X., **Huang, F.**, Hu, J., and Su, D. "Enhancing LEO-GNSS Positioning in Urban Canyons: A Factor Graph Optimization Approach with StarLink Simulations," *2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)*, Gold Coast, Australia, 2025, pp. 490-495, doi: 10.1109/ITSC60802.2025.11423756. ([Project](https://github.com/Gao-tech1/GraphGNSSLib_LEO_V1.2))
 
 * Yan, Penggao, Wen, Weisong, **Huang, Feng**, and Hsu, Li-Ta, "A Fault Detection Algorithm for LiDAR/IMU Integrated Localization Systems with Non-Gaussian Noises," *Proceedings of the 2024 International Technical Meeting of The Institute of Navigation*, Long Beach, California, January 2024, pp. 561-574. https://doi.org/10.33012/2024.19564
 
@@ -56,6 +56,10 @@ redirect_from:
 * **Huang, Feng**, Shen, Donghui, Wen, Weisong, Zhang, Jiachen, and Hsu, Li-Ta, "A Coarse-to-Fine LiDAR-Based SLAM with Dynamic Object Removal in Dense Urban Areas," *Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*, St. Louis, Missouri, September 2021, pp. 3162-3172. https://doi.org/10.33012/2021.18083 ([Paper](https://www.ion.org/publications/abstract.cfm?articleID=18083), [Video](https://youtu.be/X_t4EDOdKMY))
 
 * Zhang, Jiachen, Wen, Weisong, **Huang, Feng**, Chen, Xiaodong, and Hsu, Li-Ta, "Continuous GNSS-RTK Aided by LiDAR/Inertial Odometry with Intelligent GNSS Selection in Urban Canyons," *Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)*, St. Louis, Missouri, September 2021, pp. 4198-4207.
+
+## Book Chapters
+
+* Wen, Weisong, Li, Yafeng, and **Huang, Feng**, "LiDAR-Aided Positioning," in *Handbook of Wireless Positioning*, Kegen Yu, Elena-Simona Lohan, and Ian Oppermann, Eds., Springer Singapore, 2026, pp. 1-19. https://doi.org/10.1007/978-981-99-1650-4_27-1
 
 ## PhD Thesis
 
