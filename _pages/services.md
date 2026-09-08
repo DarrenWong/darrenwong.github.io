@@ -25,6 +25,7 @@ redirect_from:
 
 ## Award
 * Outstanding Reviewer of 2025 - IEEE Transactions on Instrumentation and Measurement ([Link](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/award/TIM2025.png))
+* Best Presentation Award, CUHK(SZ) x PolyU AI and Intelligent Robotics Workshop, 22 Aug 2026 ([Certificate](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/award/BestPresentationAward2026.jpg))
 
 ## Workshop Chair and Session Chair
 * Co-Chair, IEEE ICRA 2026 workshop: 1st Workshop on Robot Meets GNSS and Ranging for Seamless Autonomy ([Workshop Page](https://robotmeetsranging.tech/)), Vienna, Austria, 2026
@@ -42,6 +43,7 @@ redirect_from:
 ---
 
 ## Invited Talk
+* Invited by [Prof. Fangxun Zhong](https://sse.cuhk.edu.cn/en/faculty/zhongfangxun) at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ) to present a talk titled *Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas* at the PolyU-CUHK(SZ) Joint Workshop on AI and Intelligent Robotics, 22 Aug 2026
 * Invited Talk at Special Session, The 4th International Conference on Urban Informatics (ICUI 2025)
 * Invited Talk at CIHAPB Annual Conference 2025 ([Photo 1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/CIHAPB2025/Talk.jpg), [Photo 2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/CIHAPB2025/Panel1.jpg))
 
