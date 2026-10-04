@@ -10,10 +10,12 @@ redirect_from:
 ## Reviewer
 * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC) (2022~Present)
 * IEEE Intelligent Vehicles Symposium (IEEE IV) (2025~Present)
+* 2027 IEEE International Conference on Robotics and Automation (ICRA 2027)
 * 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)
 * 2024 IEEE 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024)
 * IET Radar, Sonar & Navigation
 * IEEE Sensors Journal
+* IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Instrumentation and Measurement
 * IEEE Transactions on Vehicular Technology
