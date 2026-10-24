@@ -52,15 +52,18 @@ redirect_from:
 
 ---
 
-## Teaching Assistant
+## Teaching and Outreach
 
-### Courses in The Hong Kong Polytechnic University
+### Teaching Assistant at The Hong Kong Polytechnic University
 * AAE1001 Introduction to Artificial Intelligence and Data Analytics in Aerospace and Aviation Engineering (Undergraduate), _2023_
 * AAE4006 Flight Mechanics and Control Systems (Undergraduate), _2022_
 * AAE3004 Dynamical Systems and Control (Undergraduate), _2021_
 * ENG1003 AAE Freshman Seminar for Engineering (Undergraduate), _2020_
 
 ---
+
+### University Outreach
+* Supporting Staff, PolyU Info Day 2026, The Hong Kong Polytechnic University ([Photo 1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/PolyUInfoDay2026/Photo1.jpg), [Photo 2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/PolyUInfoDay2026/Photo2.png))
 
 ### STEAM-based Programme
 * PolyU CubeSat Mission - [Space Debris Removal](https://www.polyu.edu.hk/aae/news-and-events/polyu-cubesat-mission/), _2023_, supervised the team from Maryknoll Convent School (Secondary Section), which received a Merit Award ([Award](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/award.jpg), [Team Photo 1](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/team1.jpg), [Team Photo 2](https://raw.githubusercontent.com/DarrenWong/darrenwong.github.io/refs/heads/master/_data/img/cubesat_mission/team2.jpg))
