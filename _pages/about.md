@@ -14,6 +14,11 @@ I received my Ph.D degree in the Department of Aeronautical and Aviation Enginee
 
 Before that, I received my bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
 
+News
+======
+* **Oct 2024:** Served as a Conference Supporting Student at the 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN 2024), Hong Kong, 14–17 Oct 2024. [Photos and details]({{ '/posts/2024/10/ipin-2024-conference-support/' | relative_url }})
+* **Apr–Oct 2024:** Visiting Ph.D. exchange at the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore, supervised by Prof. Danwei Wang. [Photos and details]({{ '/news/2024/ntu-exchange/' | relative_url }})
+
 Education
 ======
 * The Hong Kong Polytechnic University
@@ -23,6 +28,7 @@ Education
 * Nanyang Technological University
   * 2024.04 - 2024.10
   * Visiting Ph.D student in the School of Electrical and Electronic Engineering (EEE)
+  * [Exchange photos and details]({{ '/news/2024/ntu-exchange/' | relative_url }})
 
 * The Hong Kong University of Science and Technology
   * 2015.09 - 2016.11 
